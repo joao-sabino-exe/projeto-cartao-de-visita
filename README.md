@@ -1,4 +1,4 @@
-Ola, esta é a minha primeira vez ultilizando o git e o github, caso tenha algo de errado nao se preoculpe.
+Ola, esta é a minha primeira vez ultilizando o git e o github, caso tenha algo de errado não se preoculpe.
 este "projeto" é um desafio do curso ProgramadorBr cuja o objetivo é fazer um cartao de visita ultilizando html e css.
 <br/>
 <p>Codigo funcionando:
